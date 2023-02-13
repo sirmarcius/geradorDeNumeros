@@ -1,0 +1,35 @@
+/* Este é um código css que estiliza a página html */
+body {
+    background-color: green; /* muda a cor de fundo do corpo da página */
+    font-family: Arial, sans-serif; /* muda a fonte do texto */
+  }
+  
+  h1 {
+    color: white; /* muda a cor do texto do cabeçalho */
+    text-align: center; /* alinha o texto do cabeçalho ao centro */
+  }
+  
+  p {
+    font-size: 18px; /* muda o tamanho do texto dos parágrafos */
+    color: white;
+  }
+  
+  input {
+    border: 2px solid black; /* adiciona uma borda preta ao campo de entrada */
+    padding: 5px; /* adiciona um espaçamento interno ao campo de entrada */
+  }
+  
+  button {
+    border: 2px solid black; /* adiciona uma borda preta ao botão */
+    padding: 5px; /* adiciona um espaçamento interno ao botão */
+    background-color: white; /* muda a cor de fundo do botão */
+    cursor: pointer; /* muda o cursor do mouse para uma mão quando passa sobre o botão */
+  }
+  
+  #resultado {
+    padding: 5px; /* adiciona um espaçamento interno ao parágrafo com id "resultado" */
+    margin-top: 10px; /* adiciona um espaçamento externo acima do parágrafo com id "resultado" */
+    width: 200px; /* define a largura do parágrafo com id "resultado" */
+    white-space: nowrap; /* evita que o texto pule de linha no parágrafo com id "resultado" */
+  }
+  
